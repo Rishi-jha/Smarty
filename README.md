@@ -1,0 +1,2 @@
+# Smarty
+SmartAss Autonomous Bot
